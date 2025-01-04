@@ -1,3 +1,8 @@
+这是一个我引用的站，但是年久没有维护了，我将逐步维护并合并到我自己的加载项中
+
+[我的Addon](https://github.com/djhui/hassio-addons)
+
+
 # hassio-addons
 [![Build Status](https://travis-ci.org/bestlibre/hassio-addons.svg?branch=master)](https://travis-ci.org/bestlibre/hassio-addons)
 
